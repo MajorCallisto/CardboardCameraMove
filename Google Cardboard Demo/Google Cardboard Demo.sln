@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4975A8CF-021D-73BF-9C3C-C91910E58124}") = "Google Cardboard Demo", "Assembly-CSharp.csproj", "{4EAF9855-F8CC-1910-A3C1-5946CB9C0E19}"
+EndProject
+Project("{4975A8CF-021D-73BF-9C3C-C91910E58124}") = "Google Cardboard Demo", "Assembly-CSharp-Editor.csproj", "{A35467CA-A900-68E1-E8C1-F13FC452D6C8}"
+EndProject
+Project("{4975A8CF-021D-73BF-9C3C-C91910E58124}") = "Google Cardboard Demo", "Assembly-UnityScript.unityproj", "{06B59B48-C30E-68E7-4015-5087A64A7C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EAF9855-F8CC-1910-A3C1-5946CB9C0E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAF9855-F8CC-1910-A3C1-5946CB9C0E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAF9855-F8CC-1910-A3C1-5946CB9C0E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAF9855-F8CC-1910-A3C1-5946CB9C0E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35467CA-A900-68E1-E8C1-F13FC452D6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35467CA-A900-68E1-E8C1-F13FC452D6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35467CA-A900-68E1-E8C1-F13FC452D6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35467CA-A900-68E1-E8C1-F13FC452D6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B59B48-C30E-68E7-4015-5087A64A7C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B59B48-C30E-68E7-4015-5087A64A7C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B59B48-C30E-68E7-4015-5087A64A7C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B59B48-C30E-68E7-4015-5087A64A7C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
